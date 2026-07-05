@@ -1,0 +1,6 @@
+{
+  "name": "Autonomous Essential Maintenance",
+  "description": "Essential Maintenance Management System for Companies, Houses, and Cities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
